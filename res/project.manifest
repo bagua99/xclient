@@ -1,0 +1,1416 @@
+{
+  "assets": {
+    "res/1/GameDesk/animation/Animation1.csb": {
+      "md5": "4a33301c38f7be7af4e00fa8917bdbe8"
+    }, 
+    "res/1/GameDesk/animation/Animation10.csb": {
+      "md5": "99fda2a03dc88181a988a75c602c6e2d"
+    }, 
+    "res/1/GameDesk/animation/Animation2.csb": {
+      "md5": "429b8d4e2236469961b2bd6341c4fb37"
+    }, 
+    "res/1/GameDesk/animation/Animation3.csb": {
+      "md5": "03b18c37e22ee324c4171d596a5c87ce"
+    }, 
+    "res/1/GameDesk/animation/Animation4.csb": {
+      "md5": "30481f2814ea463247e8072a94eed6d9"
+    }, 
+    "res/1/GameDesk/animation/Animation5.csb": {
+      "md5": "d46a9d95a008ef3548f22059c6993429"
+    }, 
+    "res/1/GameDesk/animation/Animation9.csb": {
+      "md5": "419984186a05c26d0ccbc9e484c35624"
+    }, 
+    "res/1/GameDesk/animation/baozha.plist": {
+      "md5": "7183bb803f2c8fb5d573abc76b02bf7a"
+    }, 
+    "res/1/GameDesk/animation/baozha.png": {
+      "md5": "6492e9284e603bb1f3907e224b712886"
+    }, 
+    "res/1/GameDesk/animation/dpzm_zi_sz.png": {
+      "md5": "c7bf7a26211e0f5536a7c8272bc7b884"
+    }, 
+    "res/1/GameDesk/animation/feiji_000.png": {
+      "md5": "581faffd28ee197a147d5734bcf60ff3"
+    }, 
+    "res/1/GameDesk/animation/jsjm_zi_sl.png": {
+      "md5": "c166cb403d6eb9d305225719531efb12"
+    }, 
+    "res/1/GameDesk/animation/zi_liandui01.png": {
+      "md5": "1f16a18fe31587618f4c24bf6287f146"
+    }, 
+    "res/1/GameDesk/animation/zi_liandui02.png": {
+      "md5": "805178950d0f179e629f63c596ed1bbc"
+    }, 
+    "res/1/GameDesk/animation/zi_sandaier01.png": {
+      "md5": "fa70122aaa290ba211b8fe6d4940734f"
+    }, 
+    "res/1/GameDesk/animation/zi_sandaier02.png": {
+      "md5": "a1bc3d368bb4f8bb84bd44844450534e"
+    }, 
+    "res/1/GameDesk/animation/zi_sandaier03.png": {
+      "md5": "10ca4cde30b372df0e1fca29b22832e6"
+    }, 
+    "res/1/GameDesk/animation/zi_sandaiyi01.png": {
+      "md5": "21c678fa32cc262b943896a9f55fdc8c"
+    }, 
+    "res/1/GameDesk/animation/zi_shunzi_mohu.png": {
+      "md5": "bb574fee7f7a64e26e82b6b869502661"
+    }, 
+    "res/1/GameDesk/pdk_desk.plist": {
+      "md5": "ca41f00c29932c826f0d60a0cf503748"
+    }, 
+    "res/1/GameDesk/pdk_desk.png": {
+      "md5": "8c64ead218bb58aa6d1edb9791c57b1d"
+    }, 
+    "res/1/GameDesk/zhuobu.png": {
+      "md5": "917835670304095e9a05287ded6ae4cd"
+    }, 
+    "res/1/GameDeskLayer.csb": {
+      "md5": "c5e12717b74def58bd95ae5b923363b0"
+    }, 
+    "res/1/GameEnd/JM_SB.png": {
+      "md5": "02cc5acf69ce8332fefdb360d10ea67e"
+    }, 
+    "res/1/GameEnd/JM_SL.png": {
+      "md5": "44b15054a8b47dbd7987ca1220b1858b"
+    }, 
+    "res/1/GameEnd/pdk_end.plist": {
+      "md5": "9a69745cf5c104b34a63d862ca368d29"
+    }, 
+    "res/1/GameEnd/pdk_end.png": {
+      "md5": "86405882f327ca81123adddf424bb543"
+    }, 
+    "res/1/GameEndLayer.csb": {
+      "md5": "d40be555698002c12a38d3834953ad86"
+    }, 
+    "res/1/GameTotalEnd/JS_DK.png": {
+      "md5": "d1fa490bd39d383240191f60e9c14006"
+    }, 
+    "res/1/GameTotalEnd/pdk_totalend.plist": {
+      "md5": "901c714f88b19ab3ee990e05ebcee8c5"
+    }, 
+    "res/1/GameTotalEnd/pdk_totalend.png": {
+      "md5": "1bb849abd9b2e6584bdf83f76f3c751c"
+    }, 
+    "res/1/GameTotalEndLayer.csb": {
+      "md5": "4812b249a9cc919d26b231424e0369c6"
+    }, 
+    "res/3/FailedEndLayer.csb": {
+      "md5": "79b94ef13970ed7ec9aeb0d44c6c17c7"
+    }, 
+    "res/3/GameDesk/animation/Animation10.csb": {
+      "md5": "84bf7058877790414d3f40d2cf85c85f"
+    }, 
+    "res/3/GameDesk/animation/jsjm_zi_sl.png": {
+      "md5": "c166cb403d6eb9d305225719531efb12"
+    }, 
+    "res/3/GameDesk/ditu.png": {
+      "md5": "0d8d47fd73a4f87bc46ef1f089cdfd12"
+    }, 
+    "res/3/GameDeskLayer.csb": {
+      "md5": "74b28658f4ff311075fe123a72039cbe"
+    }, 
+    "res/3/ResultItemLayer.csb": {
+      "md5": "d71211c24b6a4498b87c184ad99c5272"
+    }, 
+    "res/3/SuccessEndLayer.csb": {
+      "md5": "0468b0bd7f6d5c144e237188a63232bb"
+    }, 
+    "res/3/TotalItemLayer.csb": {
+      "md5": "3df58e22e5ac583c908398666da859ff"
+    }, 
+    "res/3/TotalLayer.csb": {
+      "md5": "f7b7b1de547b182437c345e4322b1f89"
+    }, 
+    "res/3/fangzhu.png": {
+      "md5": "105ce90cd13b71a5001468778e590beb"
+    }, 
+    "res/Common/a1.png": {
+      "md5": "1d42c4e11396e8ad356e73ef94b327da"
+    }, 
+    "res/Common/a2.png": {
+      "md5": "bb1d5309dd4add4a38f250fe45605381"
+    }, 
+    "res/Common/a3.png": {
+      "md5": "01500dab96a07cf9c5008398ec696577"
+    }, 
+    "res/Common/a4.png": {
+      "md5": "19156e35373aa71db6db1e34bd63d0db"
+    }, 
+    "res/Common/chat_bubble.png": {
+      "md5": "e35fe9f1e4f392c8c6f64ee441141c96"
+    }, 
+    "res/Common/clock.png": {
+      "md5": "cf50c9d2567e0f3c8822a3792dee491d"
+    }, 
+    "res/Common/clock_font.png": {
+      "md5": "797d4de939140c6a2c1bbd805608c29f"
+    }, 
+    "res/Common/dgnn_choose.png": {
+      "md5": "247b43a768cf681a6843dfacf4aeb2e2"
+    }, 
+    "res/Common/dgnn_nomal.png": {
+      "md5": "e52b1a530b7f87fb1f1449eb3632de9f"
+    }, 
+    "res/Common/font008.png": {
+      "md5": "06b8b249fa60f160e9953060672c27e0"
+    }, 
+    "res/Common/img_head.png": {
+      "md5": "682ed49e56fd6abbb164f983426fe4f4"
+    }, 
+    "res/Common/pdk_choose.png": {
+      "md5": "b03d2c0a0faba75b8bdf1a1b02f6c3f1"
+    }, 
+    "res/Common/pdk_nomal.png": {
+      "md5": "264cf84f51cc17359d457c59cc31dc72"
+    }, 
+    "res/Common/tag_loading_quan.png": {
+      "md5": "1ef0998d21e5dd3ec84077c98465b88b"
+    }, 
+    "res/Common/updateLoadingBg.png": {
+      "md5": "754176c72abb5301b75b34223d406bfd"
+    }, 
+    "res/Common/updateLoadingProgress.png": {
+      "md5": "043b083eaf3f3843b04050fe7ff57d61"
+    }, 
+    "res/Component/GameLeaveLayer.csb": {
+      "md5": "57750514abf6fb4601df65d66eb92944"
+    }, 
+    "res/Component/GameVoteLayer.csb": {
+      "md5": "9ff97a1c4f63e2de7df232a5eacd3b5f"
+    }, 
+    "res/Component/GameVoteNoticeLayer.csb": {
+      "md5": "a4a20283b53cfdf9c092cec020de1d59"
+    }, 
+    "res/Component/GameVoteResultLayer.csb": {
+      "md5": "a2b24b295ffbc12127a9a4e4e7e2345f"
+    }, 
+    "res/Component/LoadingLayer.csb": {
+      "md5": "3aa346e8081117da53635564258b4ebd"
+    }, 
+    "res/Component/ShowMap/LocationItemLayer.csb": {
+      "md5": "70471a888fdf1095f0c7ab04c84862a7"
+    }, 
+    "res/Component/ShowMap/LocationMapLayer.csb": {
+      "md5": "ac7c6e5c65429d2f0ceb148f5c294d5a"
+    }, 
+    "res/Component/ShowMap/ShowMap.plist": {
+      "md5": "8fbd0fccdfbf48f4b07934fc4f1b4fc9"
+    }, 
+    "res/Component/ShowMap/ShowMap.png": {
+      "md5": "616e8cafd8e83df71682d298a48fdda6"
+    }, 
+    "res/Component/ShowMap/ShowMapLayer.csb": {
+      "md5": "17419962ccd491be758773605b275f30"
+    }, 
+    "res/Component/TiShi/Submit.png": {
+      "md5": "f73e58fa94b9fd76defe5516228064dd"
+    }, 
+    "res/Component/TiShi/TS_AN_03.png": {
+      "md5": "d9012786477b5b8a3757f3c6634f4525"
+    }, 
+    "res/Component/TiShi/TS_AN_05.png": {
+      "md5": "9a2af0857511115bb53cf2752c266789"
+    }, 
+    "res/Component/TiShi/TS_BJ.png": {
+      "md5": "86651fbfeedf32762b40ca34e11a3663"
+    }, 
+    "res/Default/Button_Disable.png": {
+      "md5": "e5459c1a23be97a83d082459380548d9"
+    }, 
+    "res/Default/Button_Normal.png": {
+      "md5": "b3741d90c9ad73429a43b7bd94951980"
+    }, 
+    "res/Default/Button_Press.png": {
+      "md5": "01b4166503a40bfd739d39bda54dc62c"
+    }, 
+    "res/Default/CheckBoxNode_Disable.png": {
+      "md5": "02d0ee98a453b1031542de32076812a0"
+    }, 
+    "res/Default/CheckBox_Disable.png": {
+      "md5": "e18309e835ed3af89ed2ac266445c994"
+    }, 
+    "res/Default/ImageFile.png": {
+      "md5": "1eeb386c1d4eda41e1b4f7a3a849c6fc"
+    }, 
+    "res/Default/Sprite.png": {
+      "md5": "fb733811a86b794fffe30f617845bcf3"
+    }, 
+    "res/Default/TextAtlas.png": {
+      "md5": "52ac4a482a1f150bbd88a4279d689a6d"
+    }, 
+    "res/Lobby/Activity/ActivityLayer.csb": {
+      "md5": "c0ff5a540fbd1136e7a9fb59f06f497a"
+    }, 
+    "res/Lobby/Activity/bg.png": {
+      "md5": "64b0ab3f8b45745e82d794a1b0c70b43"
+    }, 
+    "res/Lobby/CreateRoom/CreateRoomLayer.csb": {
+      "md5": "cf6f98a7ca00180009dbde5d25077ad7"
+    }, 
+    "res/Lobby/CreateRoom/JF_GB_01.png": {
+      "md5": "a2170009d370e5da21d23f5d8b73df10"
+    }, 
+    "res/Lobby/CreateRoom/JF_GB_02.png": {
+      "md5": "bc6b31bde5fbf44bdb5c586ddf26b913"
+    }, 
+    "res/Lobby/CreateRoom/commit.png": {
+      "md5": "1aaecf37566224f59ed202be63ccbaef"
+    }, 
+    "res/Lobby/CreateRoom/createRoom.png": {
+      "md5": "dba5676041bff1e1e3613b8aa2aa7d38"
+    }, 
+    "res/Lobby/CreateRoom/duigou.png": {
+      "md5": "bf9fbbaa8014c81f74dc41e490b1904d"
+    }, 
+    "res/Lobby/CreateRoom/xiaofangkuai.png": {
+      "md5": "49ffdf557de232eab41a6ec475bffaeb"
+    }, 
+    "res/Lobby/CreateRoom/xiaohuangdian.png": {
+      "md5": "b0027a7b4bd2e25488c165438817065c"
+    }, 
+    "res/Lobby/CreateRoom/xiaolandian.png": {
+      "md5": "4e3a7234227679bca962820b12e1e9c1"
+    }, 
+    "res/Lobby/FeedBack/FeedBack.plist": {
+      "md5": "a2ff66e5ecc37210092857936ad56a1f"
+    }, 
+    "res/Lobby/FeedBack/FeedBack.png": {
+      "md5": "96d7ed7b16aa35fd4a68db3a9ed926b3"
+    }, 
+    "res/Lobby/FeedBack/FeedBackLayer.csb": {
+      "md5": "e43aa99696784dec4177b1d8bf9ac072"
+    }, 
+    "res/Lobby/GameChat/Chat.plist": {
+      "md5": "4cc98847613378bba3bf24eee7051e81"
+    }, 
+    "res/Lobby/GameChat/Chat.png": {
+      "md5": "3ea0315c5f418b4fb4e95eeb75ba4a32"
+    }, 
+    "res/Lobby/GameChat/GameChatBubbleLayer.csb": {
+      "md5": "416a838b40d2ab41746c8a33cdd87d52"
+    }, 
+    "res/Lobby/GameChat/GameChatLayer.csb": {
+      "md5": "e6fe58a220898ca62e986833c9fa2898"
+    }, 
+    "res/Lobby/GameChat/smlbar.png": {
+      "md5": "10642de2da3cd9e8c84643538fc87330"
+    }, 
+    "res/Lobby/GameHelp/BZ_BJ.png": {
+      "md5": "090e55ddc375b310d66b7ac380915c19"
+    }, 
+    "res/Lobby/GameHelp/GameHelpLayer.csb": {
+      "md5": "bad94483ccf3897833b415dcaf5faab5"
+    }, 
+    "res/Lobby/GameHelp/JF_GB_01.png": {
+      "md5": "1d747d7626db5b56bfa498550a92a83c"
+    }, 
+    "res/Lobby/GameHelp/JF_GB_02.png": {
+      "md5": "e66d5d419c76e87bb9ebb71925380535"
+    }, 
+    "res/Lobby/GameScene/BuyroomCardBtn.png": {
+      "md5": "73de2f5d363368976b7990d2b09bc797"
+    }, 
+    "res/Lobby/GameScene/DiguoziBtn.png": {
+      "md5": "2407102ebb6f41f295f5ae92efd271b7"
+    }, 
+    "res/Lobby/GameScene/JoinGameBtn.png": {
+      "md5": "30e21c3a6746a9369faddc8a6a9a608f"
+    }, 
+    "res/Lobby/GameScene/LuckGameBtn.png": {
+      "md5": "7fb92d121002fd48865ea76c87793eea"
+    }, 
+    "res/Lobby/GameScene/MainLayer.csb": {
+      "md5": "88f1b8c779dd053147819535247d4c9c"
+    }, 
+    "res/Lobby/GameScene/PaodekuaiBtn.png": {
+      "md5": "519a8a2722b87338ba85bad1bf2ce79d"
+    }, 
+    "res/Lobby/GameScene/UserinfoLayer.csb": {
+      "md5": "9c306c88efffe55376ab0bfa89a849d5"
+    }, 
+    "res/Lobby/GameScene/bangzhu.png": {
+      "md5": "4e841033b84401ac1b39ee40a72a1af7"
+    }, 
+    "res/Lobby/GameScene/bg6.png": {
+      "md5": "c3addd3da454491439a3384b20a49724"
+    }, 
+    "res/Lobby/GameScene/ditu.png": {
+      "md5": "9209746db1cf34c060e6b8452d6595fa"
+    }, 
+    "res/Lobby/GameScene/fangka.png": {
+      "md5": "65041f2853dad08ae8ea1b57a586851f"
+    }, 
+    "res/Lobby/GameScene/fangkadikuang.png": {
+      "md5": "1787bf6b275985729c73b75c03a147bd"
+    }, 
+    "res/Lobby/GameScene/fangkajia.png": {
+      "md5": "eac74b666ee556bc91a3dcd805d9dacb"
+    }, 
+    "res/Lobby/GameScene/fenxianghaoyou.png": {
+      "md5": "5c5342cb6f448e3139e74a243307297b"
+    }, 
+    "res/Lobby/GameScene/head_BG.png": {
+      "md5": "b80500c3ab157b730ece828e5bb0a8ef"
+    }, 
+    "res/Lobby/GameScene/hunanpaodekuai.png": {
+      "md5": "0a4ccdf4ca3b00d66848d5d379c27de4"
+    }, 
+    "res/Lobby/GameScene/laba_dikuang.png": {
+      "md5": "1c5ff19ff93d814a1dbbcd0e0303cc9f"
+    }, 
+    "res/Lobby/GameScene/line.png": {
+      "md5": "2cf0d2014ca56692a1637d8e570a72e1"
+    }, 
+    "res/Lobby/GameScene/shangkuang.png": {
+      "md5": "696b208eb1f1fdc23ddb2d5cccd23880"
+    }, 
+    "res/Lobby/GameScene/shezhi.png": {
+      "md5": "4ca9527d3948c8fc97ecdaf7761d3b87"
+    }, 
+    "res/Lobby/GameScene/touxiangkuang.png": {
+      "md5": "94176c41f97b2f4312bea903de7605d0"
+    }, 
+    "res/Lobby/GameScene/userinfo_BG.png": {
+      "md5": "9b36a511dd8cf19e95d5418a7c1c8ed2"
+    }, 
+    "res/Lobby/GameScene/wentifankui.png": {
+      "md5": "c717da46f56b31f493fa9d37d1dbd891"
+    }, 
+    "res/Lobby/GameScene/xiakuang.png": {
+      "md5": "d81c3ca23821ea23ce46cf3361111576"
+    }, 
+    "res/Lobby/GameScene/xinxi.png": {
+      "md5": "1ec57aac4ca9eda1f45224dbbf8a4635"
+    }, 
+    "res/Lobby/GameScene/zhanjihuigu.png": {
+      "md5": "e797133c2ae254d605daff17be8ba537"
+    }, 
+    "res/Lobby/GameSet/GameSet.plist": {
+      "md5": "e430ea5043a90cb57ec474497247d89e"
+    }, 
+    "res/Lobby/GameSet/GameSet.png": {
+      "md5": "36049d5da0c7ee7cd752010e73ec021e"
+    }, 
+    "res/Lobby/GameSet/GameSetLayer.csb": {
+      "md5": "f5fe4705e82e5c2a5144df1cc4c7bff1"
+    }, 
+    "res/Lobby/JoinRoom/JoinRoom.plist": {
+      "md5": "9e68d5c6826e93921322f74c149246dc"
+    }, 
+    "res/Lobby/JoinRoom/JoinRoom.png": {
+      "md5": "7cf6725c42d09edd6b5e3a501e8c1368"
+    }, 
+    "res/Lobby/JoinRoom/JoinRoomLayer.csb": {
+      "md5": "c7afaac4910241dffc0ef9f652c52baf"
+    }, 
+    "res/Lobby/Lottery/LotteryLayer.csb": {
+      "md5": "6f64320b75a13b37fe53e9ec2eeba770"
+    }, 
+    "res/Lobby/Mail/JF_GB_01.png": {
+      "md5": "1d747d7626db5b56bfa498550a92a83c"
+    }, 
+    "res/Lobby/Mail/JF_GB_02.png": {
+      "md5": "e66d5d419c76e87bb9ebb71925380535"
+    }, 
+    "res/Lobby/Mail/MailLayer.csb": {
+      "md5": "0645c44711578f46e03653a7629b5795"
+    }, 
+    "res/Lobby/Mail/TS_BJ.png": {
+      "md5": "a92ce32758fa4a2101fda8214793c38f"
+    }, 
+    "res/Lobby/National_profit/ApplyBeProxyLayer.csb": {
+      "md5": "b53d9b71e47ddddc83194691142b2fdb"
+    }, 
+    "res/Lobby/National_profit/BeProxyLayer.csb": {
+      "md5": "f5d5a0cc36e17449078ef60aeea1df95"
+    }, 
+    "res/Lobby/National_profit/Be_Proxy_Layer.csb": {
+      "md5": "ebedac3bfa2e5f5d148c1f8b9bfb1ef3"
+    }, 
+    "res/Lobby/National_profit/MoneyGet.csb": {
+      "md5": "729a019dc8f9084a4c539d7f456faeec"
+    }, 
+    "res/Lobby/National_profit/NationProxyLayer.csb": {
+      "md5": "448207420af95ec179b5647008f585f8"
+    }, 
+    "res/Lobby/National_profit/Profit_All_Layer.csb": {
+      "md5": "c44a596465f1584a0f7e63467a535e3b"
+    }, 
+    "res/Lobby/National_profit/activity_bg1.png": {
+      "md5": "374e48548160c8bef91eafde77261635"
+    }, 
+    "res/Lobby/National_profit/activity_bg2.png": {
+      "md5": "b03a4df844d4f2a225ba795fa72de8c6"
+    }, 
+    "res/Lobby/National_profit/beProxy_bg1.png": {
+      "md5": "6738342076a476d8a3598447bc175ed9"
+    }, 
+    "res/Lobby/National_profit/desc_profit.png": {
+      "md5": "c58573d3bb9861014a8251ca941b2c2e"
+    }, 
+    "res/Lobby/National_profit/proxy_bg.png": {
+      "md5": "1ab973f28279f1065bb7283db0f99f43"
+    }, 
+    "res/Lobby/National_profit/proxy_bg_1.png": {
+      "md5": "941fa9d12c98e27683fdb8109da5f6a6"
+    }, 
+    "res/Lobby/National_profit/wxicon.png": {
+      "md5": "91cb26adc6fd2d9398cc26050edb66e0"
+    }, 
+    "res/Lobby/Pay/PayItemLayer.csb": {
+      "md5": "840a4aaadd89ebf8110129f22203518a"
+    }, 
+    "res/Lobby/Pay/PayLayer.csb": {
+      "md5": "e746ebc548c577de9bb015c8c650e5b1"
+    }, 
+    "res/Lobby/Share/ShareLayer.csb": {
+      "md5": "d9e6c44d799f303e10dad50a473a0d01"
+    }, 
+    "res/Lobby/Share/share_frame.png": {
+      "md5": "2a38831e0054a9a30e7d49a07d6b18cc"
+    }, 
+    "res/Lobby/Share/share_icon_pyq.png": {
+      "md5": "1d95084930d093d9f55f724224ce00ea"
+    }, 
+    "res/Lobby/Share/share_icon_wx.png": {
+      "md5": "3433c9ced748f999b9e28057ac654055"
+    }, 
+    "res/Lobby/WebViewPay/WebViewPayLayer.csb": {
+      "md5": "5c1055ca5328d11048fb067912dc3591"
+    }, 
+    "res/Lobby/ZhanJi/SearchLayer.csb": {
+      "md5": "6dc34374ad64d4f440be9083150f6315"
+    }, 
+    "res/Lobby/ZhanJi/ZhanJi.plist": {
+      "md5": "bc996e620f100360aee5e1e075a77082"
+    }, 
+    "res/Lobby/ZhanJi/ZhanJi.png": {
+      "md5": "26dd9bff0e601efe3902bfc1136e73c8"
+    }, 
+    "res/Lobby/ZhanJi/ZhanJiLayer.csb": {
+      "md5": "31476d9095b63f158d64c2cf38faec20"
+    }, 
+    "res/Login/DL_BJ.png": {
+      "md5": "b501d29f09c0ce1a18568c53d53b01ab"
+    }, 
+    "res/Login/Login.plist": {
+      "md5": "2ef4c1f3ad5b7763ebbad920558d4727"
+    }, 
+    "res/Login/Login.png": {
+      "md5": "3174ffbf2b79ebde7aa4a905814e1e6b"
+    }, 
+    "res/Login/LoginLayer.csb": {
+      "md5": "07a3cce6f5944b9887d259a1400f302f"
+    }, 
+    "res/Music/1/lose.mp3": {
+      "md5": "ee1c26b0a8ad6efd9faa5747fc565bcb"
+    }, 
+    "res/Music/1/man/1.wav": {
+      "md5": "ab8588daf0937177a608de0c54d754c7"
+    }, 
+    "res/Music/1/man/10.wav": {
+      "md5": "77c781040648f743c4fba65cd4a7b7c9"
+    }, 
+    "res/Music/1/man/11.wav": {
+      "md5": "fba90115b219eec03eb225c5025e3ab9"
+    }, 
+    "res/Music/1/man/12.wav": {
+      "md5": "a1ab4e77726996ae3105eec974edc697"
+    }, 
+    "res/Music/1/man/13.wav": {
+      "md5": "34b488b15fb863027ab5948d89eaef44"
+    }, 
+    "res/Music/1/man/2.wav": {
+      "md5": "003f8ae546208afd588782be55e3b038"
+    }, 
+    "res/Music/1/man/2_1.wav": {
+      "md5": "8db9eb9679f6ab7c031431641226b7c4"
+    }, 
+    "res/Music/1/man/2_10.wav": {
+      "md5": "fe7ac698dd7c2b8b5d184e10e0732a36"
+    }, 
+    "res/Music/1/man/2_11.wav": {
+      "md5": "4e7500a003864ef79767a6e74a8b5858"
+    }, 
+    "res/Music/1/man/2_12.wav": {
+      "md5": "3b40c9a8910cb31af46117309f432d2b"
+    }, 
+    "res/Music/1/man/2_13.wav": {
+      "md5": "14b4dc4672bcdbc203a76578770d4a16"
+    }, 
+    "res/Music/1/man/2_2.wav": {
+      "md5": "0d5ba1120ef8763485cdb66b4bda9d03"
+    }, 
+    "res/Music/1/man/2_3.wav": {
+      "md5": "d33f5ec59c9e1eacb62bcae86ea96bef"
+    }, 
+    "res/Music/1/man/2_4.wav": {
+      "md5": "7577348c72305ccdfecdff2dd5bac35c"
+    }, 
+    "res/Music/1/man/2_5.wav": {
+      "md5": "a88231029c78fad990d5badd350af71a"
+    }, 
+    "res/Music/1/man/2_6.wav": {
+      "md5": "0b5921a4f108820554c042a0e7945d30"
+    }, 
+    "res/Music/1/man/2_7.wav": {
+      "md5": "287c4f4dd407bb2107100c05631fbe56"
+    }, 
+    "res/Music/1/man/2_8.wav": {
+      "md5": "dc34c22f5c3d6a81a90d1f1074b1b19b"
+    }, 
+    "res/Music/1/man/2_9.wav": {
+      "md5": "4cd6caee40ea63ac7fc23fb1967c4788"
+    }, 
+    "res/Music/1/man/3.wav": {
+      "md5": "77f675a4bcb28ba0edb591fa2fc71b44"
+    }, 
+    "res/Music/1/man/3_1.wav": {
+      "md5": "22a6ee9de96e62f578034f5e0ee97097"
+    }, 
+    "res/Music/1/man/3_10.wav": {
+      "md5": "4a598cf56f013941adb7a5bf371973b7"
+    }, 
+    "res/Music/1/man/3_11.wav": {
+      "md5": "8c1f0daffbfd45bc313fe2ac438cd4a8"
+    }, 
+    "res/Music/1/man/3_12.wav": {
+      "md5": "1184c9972cf8e3fe8e05aa7f1517e544"
+    }, 
+    "res/Music/1/man/3_13.wav": {
+      "md5": "90006beee338dbf28ac5cd94fdd78d64"
+    }, 
+    "res/Music/1/man/3_2.wav": {
+      "md5": "1fa139c70d6f11b3c51201a7843eeb1a"
+    }, 
+    "res/Music/1/man/3_3.wav": {
+      "md5": "68e0315be66f504a11cbdc034580808f"
+    }, 
+    "res/Music/1/man/3_4.wav": {
+      "md5": "75a7f8c72d2cb8b9a299985029163597"
+    }, 
+    "res/Music/1/man/3_5.wav": {
+      "md5": "1126269d1c7985296b60e17b99a1125c"
+    }, 
+    "res/Music/1/man/3_6.wav": {
+      "md5": "47a33fdb715ac61047210d6493c5bde9"
+    }, 
+    "res/Music/1/man/3_7.wav": {
+      "md5": "3b3f0887dc7c3bb2e2ae1ca6ee597965"
+    }, 
+    "res/Music/1/man/3_8.wav": {
+      "md5": "184061533972567d002dc4fd6d9245eb"
+    }, 
+    "res/Music/1/man/3_9.wav": {
+      "md5": "eb84e8b16ba91f687a08dac57612d9da"
+    }, 
+    "res/Music/1/man/4.wav": {
+      "md5": "53ef1d49031cbddb3d33808becaed68c"
+    }, 
+    "res/Music/1/man/5.wav": {
+      "md5": "704c73bbed4f9ee0a54beff250bd48d1"
+    }, 
+    "res/Music/1/man/6.wav": {
+      "md5": "b00f7771da2f3dbe8bb802a2289d328e"
+    }, 
+    "res/Music/1/man/7.wav": {
+      "md5": "40892660e57a6960bc6c5894ce76a97d"
+    }, 
+    "res/Music/1/man/8.wav": {
+      "md5": "42674c57923e58d287bdfd80e451f95a"
+    }, 
+    "res/Music/1/man/9.wav": {
+      "md5": "47c45fb1e1e03e048da6150ef2f44385"
+    }, 
+    "res/Music/1/man/Bomb.wav": {
+      "md5": "bf8f608be31c1f19a4ca301ef3412a00"
+    }, 
+    "res/Music/1/man/MorePairs.wav": {
+      "md5": "914c586dfab4d68e9d6fdfc191957a0e"
+    }, 
+    "res/Music/1/man/Pass1.wav": {
+      "md5": "4e8addab2a8004c6f23cc0daa44c64e4"
+    }, 
+    "res/Music/1/man/Pass2.wav": {
+      "md5": "d67acf00aec5872f1ff1a09dae1c717a"
+    }, 
+    "res/Music/1/man/Pass3.wav": {
+      "md5": "4065fc780826e0d5d34458ecf9cf8bca"
+    }, 
+    "res/Music/1/man/Pass4.wav": {
+      "md5": "0247080da627b357cb18ee32ebf462a7"
+    }, 
+    "res/Music/1/man/Plane.wav": {
+      "md5": "f95fafcd0d10f20852ead35bc70fc753"
+    }, 
+    "res/Music/1/man/Straight.wav": {
+      "md5": "8ce92fdbac1ae4679b74f436290fde53"
+    }, 
+    "res/Music/1/man/ThreeAndDui.wav": {
+      "md5": "1fcfae2e9d2f5d12e4351cdab0b2c478"
+    }, 
+    "res/Music/1/man/ThreeAndOne.wav": {
+      "md5": "98ade028276b7cfb4dd92008716ba14f"
+    }, 
+    "res/Music/1/man/Warning.wav": {
+      "md5": "59b6f461bb8ed6c597b86a89ef593aaa"
+    }, 
+    "res/Music/1/win.mp3": {
+      "md5": "e33232c9d4b55b72ebdaa48a52e927d2"
+    }, 
+    "res/Music/1/woman/1.wav": {
+      "md5": "9f122b66cece0c4403c9e86869a9860d"
+    }, 
+    "res/Music/1/woman/10.wav": {
+      "md5": "56754ce9cf307d7c64311caf35b08af0"
+    }, 
+    "res/Music/1/woman/11.wav": {
+      "md5": "dc020db64821b0dc49f203abc04cb5be"
+    }, 
+    "res/Music/1/woman/12.wav": {
+      "md5": "ff49ef28fa4463200572590d355e69c0"
+    }, 
+    "res/Music/1/woman/13.wav": {
+      "md5": "5dc7ca04d939a710b6da4e4f1b27a998"
+    }, 
+    "res/Music/1/woman/2.wav": {
+      "md5": "63ae06b190e336f3b06f61f65aa64cc5"
+    }, 
+    "res/Music/1/woman/2_1.wav": {
+      "md5": "03fe8842e73dc099b8402270a78460a6"
+    }, 
+    "res/Music/1/woman/2_10.wav": {
+      "md5": "35dac40a1563cb5b00a011e51b30e8e7"
+    }, 
+    "res/Music/1/woman/2_11.wav": {
+      "md5": "e9c793589d55b794f6aac70d7f1a32e8"
+    }, 
+    "res/Music/1/woman/2_12.wav": {
+      "md5": "355d3295e6148f01121f4ff2651f8ebd"
+    }, 
+    "res/Music/1/woman/2_13.wav": {
+      "md5": "73cff3c38383ef924d2729b000f2e587"
+    }, 
+    "res/Music/1/woman/2_2.wav": {
+      "md5": "2fb2a8500b866df1e019c2b525237ab1"
+    }, 
+    "res/Music/1/woman/2_3.wav": {
+      "md5": "652562e4943e54d12896fb5e4945dff9"
+    }, 
+    "res/Music/1/woman/2_4.wav": {
+      "md5": "99a83bf3564dabbea0adc10eaffe1d07"
+    }, 
+    "res/Music/1/woman/2_5.wav": {
+      "md5": "1938c0dfdb80d8cce5d655675403cd91"
+    }, 
+    "res/Music/1/woman/2_6.wav": {
+      "md5": "80ea2b8fe8f0ff1961ec8f7db3138698"
+    }, 
+    "res/Music/1/woman/2_7.wav": {
+      "md5": "32fc7656268fa601da9c16f71ac66c08"
+    }, 
+    "res/Music/1/woman/2_8.wav": {
+      "md5": "805b1c7304bfe96150761b445cf12213"
+    }, 
+    "res/Music/1/woman/2_9.wav": {
+      "md5": "e518714bd99c610768f97a4b4e59ae58"
+    }, 
+    "res/Music/1/woman/3.wav": {
+      "md5": "004588d8a83cbae36f4d72eeb3f7c55c"
+    }, 
+    "res/Music/1/woman/3_1.wav": {
+      "md5": "e40f470b92c555b57b6be3f707a06e2a"
+    }, 
+    "res/Music/1/woman/3_10.wav": {
+      "md5": "8023a30e452ee639049f2fb600567ff3"
+    }, 
+    "res/Music/1/woman/3_11.wav": {
+      "md5": "03dca2c0352f3a6bc0f1e0971a09342a"
+    }, 
+    "res/Music/1/woman/3_12.wav": {
+      "md5": "c5e948324c72153c23a5dfe31e0be229"
+    }, 
+    "res/Music/1/woman/3_13.wav": {
+      "md5": "244bd4819bd0550ec7990f5b100c936b"
+    }, 
+    "res/Music/1/woman/3_2.wav": {
+      "md5": "ba854f3d9a0b0efd41f50f990743029c"
+    }, 
+    "res/Music/1/woman/3_3.wav": {
+      "md5": "f2260d7649ef93639a943cbab16b4f82"
+    }, 
+    "res/Music/1/woman/3_4.wav": {
+      "md5": "9e1491b7af2df3c1935ac4c8e342fba8"
+    }, 
+    "res/Music/1/woman/3_5.wav": {
+      "md5": "9ad762a2951c9b792ca476efbc10465b"
+    }, 
+    "res/Music/1/woman/3_6.wav": {
+      "md5": "35ac79d8c5ed6d9890ada1ec8570f6d6"
+    }, 
+    "res/Music/1/woman/3_7.wav": {
+      "md5": "63de392673426cc79ebc82e6bff670a5"
+    }, 
+    "res/Music/1/woman/3_8.wav": {
+      "md5": "7836224cba719fa48a37034413fd4475"
+    }, 
+    "res/Music/1/woman/3_9.wav": {
+      "md5": "6e93dcf52dc67a2c14741a7ca6594c90"
+    }, 
+    "res/Music/1/woman/4.wav": {
+      "md5": "407788306c48a325d2e49a7668a33fec"
+    }, 
+    "res/Music/1/woman/5.wav": {
+      "md5": "f7aaa77a95ee4754bf0350158556b9e5"
+    }, 
+    "res/Music/1/woman/6.wav": {
+      "md5": "70fa2f672afd12d865f553bcb1d381d0"
+    }, 
+    "res/Music/1/woman/7.wav": {
+      "md5": "5659bb35033cd396957afbc9420c7ac5"
+    }, 
+    "res/Music/1/woman/8.wav": {
+      "md5": "f009f7fa33ae0da47e034169e1dbaf72"
+    }, 
+    "res/Music/1/woman/9.wav": {
+      "md5": "ee3b45bd8eae8e66429b021c45dafec7"
+    }, 
+    "res/Music/1/woman/Bomb.wav": {
+      "md5": "167821c4823ea062fd3cc190bbda33de"
+    }, 
+    "res/Music/1/woman/MorePairs.wav": {
+      "md5": "5977c17d84de46d434ea46b381720bf5"
+    }, 
+    "res/Music/1/woman/Pass1.wav": {
+      "md5": "d8d468134a8edddb9eace2a8c3416564"
+    }, 
+    "res/Music/1/woman/Pass2.wav": {
+      "md5": "e85f343c5cdeb21bfc4c8919b1b56f2a"
+    }, 
+    "res/Music/1/woman/Pass3.wav": {
+      "md5": "6232adb465ce43ef7b58194d0b2c1e96"
+    }, 
+    "res/Music/1/woman/Pass4.wav": {
+      "md5": "71d91dd5d03079cb849704b821ce202b"
+    }, 
+    "res/Music/1/woman/Plane.wav": {
+      "md5": "42439181aa6bc182e64e03f643392f36"
+    }, 
+    "res/Music/1/woman/Straight.wav": {
+      "md5": "749c931349f8517b22c1247b465ad43d"
+    }, 
+    "res/Music/1/woman/ThreeAndDui.wav": {
+      "md5": "41353278929e759458756884d432773e"
+    }, 
+    "res/Music/1/woman/ThreeAndOne.wav": {
+      "md5": "ff0210c4411108f4820db150badc931d"
+    }, 
+    "res/Music/1/woman/Warning.wav": {
+      "md5": "b72c3d56a5eafc500da98b195f563d5f"
+    }, 
+    "res/Music/3/lose.mp3": {
+      "md5": "389b136d6ebd0bfa7ded56f1a2695bf9"
+    }, 
+    "res/Music/3/man/n0.mp3": {
+      "md5": "132545223b55bba2b59977e8231cc927"
+    }, 
+    "res/Music/3/man/n1.mp3": {
+      "md5": "6f80f51d5bffd561f19db296ac9921e1"
+    }, 
+    "res/Music/3/man/n10.mp3": {
+      "md5": "66ce6776f5857814f955c1815d0dbd26"
+    }, 
+    "res/Music/3/man/n2.mp3": {
+      "md5": "46c35a2e4d3aa279bb5f33adcee195ab"
+    }, 
+    "res/Music/3/man/n3.mp3": {
+      "md5": "3830c026e110576c49e99dceb41f769d"
+    }, 
+    "res/Music/3/man/n4.mp3": {
+      "md5": "5d29f293d7c93fa3ce4b1ce79760f626"
+    }, 
+    "res/Music/3/man/n5.mp3": {
+      "md5": "97397eb4f40dc2a4e706accc8d41a468"
+    }, 
+    "res/Music/3/man/n6.mp3": {
+      "md5": "d05dd4db6ef9dcd5d594abb4b9f395fc"
+    }, 
+    "res/Music/3/man/n7.mp3": {
+      "md5": "2560a449a0531ed0558840fa3a9b0ee6"
+    }, 
+    "res/Music/3/man/n8.mp3": {
+      "md5": "86147c6dd18633254669374c2617db62"
+    }, 
+    "res/Music/3/man/n9.mp3": {
+      "md5": "6d7825d25134349a78c0a5f9d2958e1b"
+    }, 
+    "res/Music/3/nn_bg.mp3": {
+      "md5": "db396a935e6ccecaccaed28f443d73ae"
+    }, 
+    "res/Music/3/score/addchips.mp3": {
+      "md5": "157f24d496b34fd2d2e2dc0e24143127"
+    }, 
+    "res/Music/3/score/bellx2final.wav": {
+      "md5": "0b46dc25e3d7d231ec9ca34b5258ef7d"
+    }, 
+    "res/Music/3/score/bet.mp3": {
+      "md5": "d10b42412f667a4bade4e0a21fcdb649"
+    }, 
+    "res/Music/3/score/movechips.mp3": {
+      "md5": "ccf3c7cb2e31aa940e55c3ae0284dff5"
+    }, 
+    "res/Music/3/score/score.mp3": {
+      "md5": "fdb096fd2fb7467ee84e1b670b8d5d64"
+    }, 
+    "res/Music/3/win.mp3": {
+      "md5": "04796fb26654608dcbc79b0591ab1c3d"
+    }, 
+    "res/Music/3/woman/f1_nn0_2.mp3": {
+      "md5": "83de42797b7dbaff4448781971f80f7f"
+    }, 
+    "res/Music/3/woman/f1_nn10_2.mp3": {
+      "md5": "393571082ca8e4dd727da8246a8fe1b3"
+    }, 
+    "res/Music/3/woman/f1_nn1_2.mp3": {
+      "md5": "54d3541d4a19d28cdb13308b893996ef"
+    }, 
+    "res/Music/3/woman/f1_nn2_2.mp3": {
+      "md5": "005e55c9f61f0cef54ab8f17eb14b19e"
+    }, 
+    "res/Music/3/woman/f1_nn3_2.mp3": {
+      "md5": "25e648d0649b034939c9731b0a3679c1"
+    }, 
+    "res/Music/3/woman/f1_nn4_2.mp3": {
+      "md5": "2487983d3349b49b201f34c5fe8b18df"
+    }, 
+    "res/Music/3/woman/f1_nn5_2.mp3": {
+      "md5": "e0b603bf4d209ab8579740b5bbcd4566"
+    }, 
+    "res/Music/3/woman/f1_nn6_2.mp3": {
+      "md5": "814a9abb8307f8bc0531b34d1de8a482"
+    }, 
+    "res/Music/3/woman/f1_nn7_2.mp3": {
+      "md5": "b933d04e11e8a31b95f729163fd2f760"
+    }, 
+    "res/Music/3/woman/f1_nn8_2.mp3": {
+      "md5": "166470188822c734d74dac736774a68c"
+    }, 
+    "res/Music/3/woman/f1_nn9_2.mp3": {
+      "md5": "242f286dbee85b1076fa24ab1bb72384"
+    }, 
+    "res/Music/BACK_MUSIC.mp3": {
+      "md5": "74de526b68ee6952b988f52d2ee02146"
+    }, 
+    "res/Music/btn_click.mp3": {
+      "md5": "9987b628c20ff024f7a38be549c90fc4"
+    }, 
+    "res/Music/sound/GameChat/man_1.mp3": {
+      "md5": "66e064ec73cc3ace98e321d497708840"
+    }, 
+    "res/Music/sound/GameChat/man_2.mp3": {
+      "md5": "a29e05baaeb16ef0e7a595b007936294"
+    }, 
+    "res/Music/sound/GameChat/man_3.mp3": {
+      "md5": "a1023c95861ff92dbbea4d91dd1012e1"
+    }, 
+    "res/Music/sound/GameChat/man_4.mp3": {
+      "md5": "4305fa63d77f5ccde561b2c874472d52"
+    }, 
+    "res/Music/sound/GameChat/man_5.mp3": {
+      "md5": "66a789a99064c95ad448903e132c478b"
+    }, 
+    "res/Music/sound/GameChat/man_6.mp3": {
+      "md5": "b2e924a8d0006c34b82a27954e9171d4"
+    }, 
+    "res/Music/sound/GameChat/man_7.mp3": {
+      "md5": "0fddce7c1b7b3e151a3842e8b175c13c"
+    }, 
+    "res/Music/sound/GameChat/man_8.mp3": {
+      "md5": "874c774327254f0fe6d7af7dc38b49e8"
+    }, 
+    "res/Music/sound/GameChat/woman_1.mp3": {
+      "md5": "ac2da5a54131b3b29319fdc8ab1e4c7d"
+    }, 
+    "res/Music/sound/GameChat/woman_2.mp3": {
+      "md5": "cb1e83a0329d40f64f431fc477c03dd4"
+    }, 
+    "res/Music/sound/GameChat/woman_3.mp3": {
+      "md5": "59322162ffcafb38838f555ac03eb6c1"
+    }, 
+    "res/Music/sound/GameChat/woman_4.mp3": {
+      "md5": "024ae1e246d7d7a6bb918f78f7d3472e"
+    }, 
+    "res/Music/sound/GameChat/woman_5.mp3": {
+      "md5": "25d8455b6d19052b798998d93fb5bf5f"
+    }, 
+    "res/Music/sound/GameChat/woman_6.mp3": {
+      "md5": "7d1c677c00c24847a815931ef70b2826"
+    }, 
+    "res/Music/sound/GameChat/woman_7.mp3": {
+      "md5": "18cbb249409a062330500e4ca1fc69ce"
+    }, 
+    "res/Music/sound/GameChat/woman_8.mp3": {
+      "md5": "4444c6360558bfe65da4e8abf1683f04"
+    }, 
+    "res/Music/timeup_alarm.mp3": {
+      "md5": "7cc83ebe1c41a0d6eb76c30cb416261d"
+    }, 
+    "res/Voice/a1.png": {
+      "md5": "eb6a1e8980a5071367349bc6c7cdfb81"
+    }, 
+    "res/Voice/a2.png": {
+      "md5": "0a25daf38106e8f49d68c28f4d0cad74"
+    }, 
+    "res/Voice/a3.png": {
+      "md5": "95cca7adb0e9c11ee9f4426f75f3da9f"
+    }, 
+    "res/Voice/p1.png": {
+      "md5": "8f52b2f438027192d0731e0de9d90871"
+    }, 
+    "res/Voice/p2.png": {
+      "md5": "405ce48f522f04cc65fffcd5afee0381"
+    }, 
+    "res/Voice/p3.png": {
+      "md5": "2c8f7ee92e3271bab9009833c534c57c"
+    }, 
+    "res/Voice/p4.png": {
+      "md5": "e451a3ed5caf8bd44ba9fb3ade48adb8"
+    }, 
+    "res/Voice/p5.png": {
+      "md5": "7fe29ccd1c50f4968c7320852f64304e"
+    }, 
+    "res/Voice/p6.png": {
+      "md5": "b0a603e63b331ae3b8d4c2901ba617f7"
+    }, 
+    "res/Voice/record_0.png": {
+      "md5": "1ba069ad3133146766c5349fc75936ae"
+    }, 
+    "res/Voice/voice0.png": {
+      "md5": "23848bc4bb4b3692ec6d0ee01700574b"
+    }, 
+    "res/Voice/voice1.png": {
+      "md5": "d80f273169eb31820a6c7c5dbebea15f"
+    }, 
+    "res/Voice/voice2.png": {
+      "md5": "8df6d7ad0db7b450456dbe468682ee2d"
+    }, 
+    "res/Voice/voice3.png": {
+      "md5": "522fb73c05e9ca1865f2ace3356dc4e7"
+    }, 
+    "res/commonfont/ZYUANSJ.TTF": {
+      "md5": "cc55c225f36778307df08ae59e3cff5b"
+    }, 
+    "res/plist/Card.plist": {
+      "md5": "53622b098fb7798760e11035d8aa7220"
+    }, 
+    "res/plist/Card.png": {
+      "md5": "8c864049627d8cad22a5c225eed73b7f"
+    }, 
+    "res/plist/activity.plist": {
+      "md5": "d7b9e329f1471290d01b0f037bb580dd"
+    }, 
+    "res/plist/activity.png": {
+      "md5": "408803abd4e6877b2d8df323b77c6964"
+    }, 
+    "res/plist/common.plist": {
+      "md5": "772dd534579ce174e9ff7768336753f2"
+    }, 
+    "res/plist/common.png": {
+      "md5": "4dc4d1b53775ac5ee09587acf2054878"
+    }, 
+    "res/plist/douniu.plist": {
+      "md5": "c4435a6ef650702c8bb183aa284f976c"
+    }, 
+    "res/plist/douniu.png": {
+      "md5": "c9f17c9fa70df104b10f9c389de9bc18"
+    }, 
+    "res/plist/national_proxy.plist": {
+      "md5": "a887795eece0347c1399d019cde16ed8"
+    }, 
+    "res/plist/national_proxy.png": {
+      "md5": "ada08f1fda876f8da446dfc31101d4fd"
+    }, 
+    "res/plist/pay.plist": {
+      "md5": "92d1054a1c74bddbfd4c92a25e7c9e6d"
+    }, 
+    "res/plist/pay.png": {
+      "md5": "6acec6dcce9d8ef7f2f504ece0a5aee2"
+    }, 
+    "res/plist/result.plist": {
+      "md5": "4d5b7f271b84eced776bc912d80be879"
+    }, 
+    "res/plist/result.png": {
+      "md5": "2b553a43103ea82a9fc4099517e0e5c7"
+    }, 
+    "res/plist/successAnimas.plist": {
+      "md5": "01fbb20602ea2ac236bbdff844ab443b"
+    }, 
+    "res/plist/successAnimas.png": {
+      "md5": "3281428587b679e668ec7574abe79e4b"
+    }, 
+    "src/GameManager.lua": {
+      "md5": "fc1632a6d3d89338c99eafa355a1f496"
+    }, 
+    "src/UpdateScene.lua": {
+      "md5": "abca2f43f4745c8b2a59194f72a4f1bc"
+    }, 
+    "src/app/MyApp.lua": {
+      "md5": "96ce45c5275a514dfb2b7ecb07d9ae1a"
+    }, 
+    "src/app/base/BaseLayer.lua": {
+      "md5": "de5740a1d96d21f4cf1f446b0efaa20b"
+    }, 
+    "src/app/base/BaseScene.lua": {
+      "md5": "b5b8f737e7116c6ed97882a8e9d870fd"
+    }, 
+    "src/app/common/CommonFunc.lua": {
+      "md5": "34aad7cefca87d7ddd619815b8be0003"
+    }, 
+    "src/app/common/MsgLockLayer.lua": {
+      "md5": "7a74eae3b0d4bd0d6a2a7254ba2cfcc4"
+    }, 
+    "src/app/common/UIEvent.lua": {
+      "md5": "44529791f00fffa6157b6d06f8718e99"
+    }, 
+    "src/app/common/WarnLayer.lua": {
+      "md5": "c3d1a2d4f1b396aaaa466e8be29a094b"
+    }, 
+    "src/app/component/GeneralTips.lua": {
+      "md5": "b731327acf043d4f3fadae1216ebd317"
+    }, 
+    "src/app/component/Loading.lua": {
+      "md5": "3dbce55740fd0ac053862466a331eac7"
+    }, 
+    "src/app/component/LocationMapLayer.lua": {
+      "md5": "187ce99d6581f20e302d9e0ade0e1180"
+    }, 
+    "src/app/component/ScoreTips.lua": {
+      "md5": "61946862469d82caccbdf214374a17cb"
+    }, 
+    "src/app/component/ShowMapLayer.lua": {
+      "md5": "9b8b9c7ad987d290845acbb73db21af4"
+    }, 
+    "src/app/component/SmallTips.lua": {
+      "md5": "1a2118518cfb4e002912ba7bab92b1bb"
+    }, 
+    "src/app/component/UserInfoTips.lua": {
+      "md5": "7bfb6c32cca76ba0bb8c35d6a9b4e7c7"
+    }, 
+    "src/app/component/ZhuangTips.lua": {
+      "md5": "5d3cd9fd4408b029ae928eddad26dfca"
+    }, 
+    "src/app/config/DgnnConfig.lua": {
+      "md5": "13b16144ab45f7ed04071f9936e723c3"
+    }, 
+    "src/app/config/EventConfig.lua": {
+      "md5": "0d7283f4ac353e9089542b729e87f7c6"
+    }, 
+    "src/app/config/GameConfig.lua": {
+      "md5": "f47c9229614afbbb83f06a699ea241a4"
+    }, 
+    "src/app/config/HelpConfig.lua": {
+      "md5": "c33da99e4f931f5adfe55c589c0ab0b5"
+    }, 
+    "src/app/config/NnConfig.lua": {
+      "md5": "a02b680f999fd7619c72f1cdccaecf49"
+    }, 
+    "src/app/config/PayConfig.lua": {
+      "md5": "f16fed994042b03fe9182f27e572967a"
+    }, 
+    "src/app/config/PdkConfig.lua": {
+      "md5": "259bf7a1c7e19888e143666b9516445f"
+    }, 
+    "src/app/config/Product.lua": {
+      "md5": "551d6f5c17d2c4a7ab98e07c0cb50d57"
+    }, 
+    "src/app/config/RoomConfig.lua": {
+      "md5": "22c93e0de0027347c1f26100f6eb169d"
+    }, 
+    "src/app/data/DataManager.lua": {
+      "md5": "bce7b03271305cf0e1a5caab1e2da959"
+    }, 
+    "src/app/music/AudioManager.lua": {
+      "md5": "a744983a84abff8fe9c0e08edd93ee66"
+    }, 
+    "src/app/net/BaseTcp.lua": {
+      "md5": "3414e07d5ee5b3eb1bd6089cf3469734"
+    }, 
+    "src/app/net/NetManager.lua": {
+      "md5": "2fd189a5ed1737c9d48264763bbab809"
+    }, 
+    "src/app/net/TcpGame.lua": {
+      "md5": "90643e6c65dd6934810d892cc044b1f0"
+    }, 
+    "src/app/net/TcpLobby.lua": {
+      "md5": "81478bc737eaac133b57cfa42e12e55d"
+    }, 
+    "src/app/net/msg_define.lua": {
+      "md5": "84e63ce20c0ad6e1534f4707dfee987a"
+    }, 
+    "src/app/net/parser.lua": {
+      "md5": "15543fe25d584d84d4c7e4ba814df60d"
+    }, 
+    "src/app/net/pbc.lua": {
+      "md5": "64b057e3591e587d6a7578e6f2e832c8"
+    }, 
+    "src/app/net/protobuf.lua": {
+      "md5": "5063004a7d258fd07f4fac299904325b"
+    }, 
+    "src/app/net/protocol_msg.lua": {
+      "md5": "cb284a8dd244d1ea3a4a7ece6537783f"
+    }, 
+    "src/app/net/protocol_pb.lua": {
+      "md5": "25d3d8288e27ac1aed5689cf2a5881ec"
+    }, 
+    "src/app/scenes/GameSceneManager.lua": {
+      "md5": "02aafb0e1d813fef735ead72c14574f1"
+    }, 
+    "src/app/scenes/gamedesk/1/GameDefine.lua": {
+      "md5": "edc08c30bba1c1b7572ceac7fc13897c"
+    }, 
+    "src/app/scenes/gamedesk/1/GamePlayer.lua": {
+      "md5": "42d6851b411a5d9dc0e2878cb140f9be"
+    }, 
+    "src/app/scenes/gamedesk/1/card/GameCard.lua": {
+      "md5": "213fdadac87136404594937aba50cd15"
+    }, 
+    "src/app/scenes/gamedesk/1/card/GameCardManager.lua": {
+      "md5": "64ef2f88986b60076869c1a570931be6"
+    }, 
+    "src/app/scenes/gamedesk/1/game/GameDeskLayer.lua": {
+      "md5": "bee237dcd31edb93527fa2355496293d"
+    }, 
+    "src/app/scenes/gamedesk/1/game/GameDeskScene.lua": {
+      "md5": "dbe5c8878298259997271906f224e44e"
+    }, 
+    "src/app/scenes/gamedesk/1/game/GameEndLayer.lua": {
+      "md5": "d6ccdb2f6082cafced3aa9e93b823973"
+    }, 
+    "src/app/scenes/gamedesk/1/game/GameTotalEndLayer.lua": {
+      "md5": "a1826f98986c9ad385591ff620f2856d"
+    }, 
+    "src/app/scenes/gamedesk/1/logic/logic.lua": {
+      "md5": "9bb90588847fb82d29f9cbda92b5af2a"
+    }, 
+    "src/app/scenes/gamedesk/1/msg/msg.lua": {
+      "md5": "650d2b025f8c5a57fd89b9912e43d606"
+    }, 
+    "src/app/scenes/gamedesk/1/msg/pb.lua": {
+      "md5": "951569804626dc8d56452d3043f0acc7"
+    }, 
+    "src/app/scenes/gamedesk/2/GameDefine.lua": {
+      "md5": "3818945e31236ba83f19666895efd970"
+    }, 
+    "src/app/scenes/gamedesk/2/GamePlayer.lua": {
+      "md5": "0f4599c769b99117daa56343bb2e98f0"
+    }, 
+    "src/app/scenes/gamedesk/2/card/GameCard.lua": {
+      "md5": "6e165fa677afe448b51bb4555a907470"
+    }, 
+    "src/app/scenes/gamedesk/2/card/GameCardManager.lua": {
+      "md5": "d0755458f3b542a9a444f0fcd564540d"
+    }, 
+    "src/app/scenes/gamedesk/2/game/GameDeskLayer.lua": {
+      "md5": "9e9639f956458edffdb8daa2d108dd3d"
+    }, 
+    "src/app/scenes/gamedesk/2/game/GameDeskScene.lua": {
+      "md5": "35ad6b4bea889fbab6d614929e4cb231"
+    }, 
+    "src/app/scenes/gamedesk/2/game/GameEndLayer.lua": {
+      "md5": "2af959803d4c6a20400cb1534f2d2207"
+    }, 
+    "src/app/scenes/gamedesk/2/game/GameTotalEndLayer.lua": {
+      "md5": "e015f58ad214258ecea687a7c85d6e27"
+    }, 
+    "src/app/scenes/gamedesk/2/msg/msg.lua": {
+      "md5": "b752246dbe0fcb69681d7a2be75cba35"
+    }, 
+    "src/app/scenes/gamedesk/2/msg/pb.lua": {
+      "md5": "52615a5eac90f41257ca3474553dc3b8"
+    }, 
+    "src/app/scenes/gamedesk/3/GameDefine.lua": {
+      "md5": "3106105bb05a89c4d9a518f7094de78a"
+    }, 
+    "src/app/scenes/gamedesk/3/GamePlayer.lua": {
+      "md5": "bf8af6846bac6289ef6798b481a03b9e"
+    }, 
+    "src/app/scenes/gamedesk/3/card/GameCard.lua": {
+      "md5": "6e165fa677afe448b51bb4555a907470"
+    }, 
+    "src/app/scenes/gamedesk/3/card/GameCardManager.lua": {
+      "md5": "16a0393e0874fc27e20f65d68144c2e8"
+    }, 
+    "src/app/scenes/gamedesk/3/game/FailedLayer.lua": {
+      "md5": "1070be11fd06730764f49e58442ae763"
+    }, 
+    "src/app/scenes/gamedesk/3/game/GameDeskLayer.lua": {
+      "md5": "2656d63e67a3c771afb70cc0e0d7e774"
+    }, 
+    "src/app/scenes/gamedesk/3/game/GameDeskScene.lua": {
+      "md5": "90decc13be5e501815e1e643b0640785"
+    }, 
+    "src/app/scenes/gamedesk/3/game/ResultItemLayer.lua": {
+      "md5": "f051facd0511fcd85b7b8f15ec15ee6c"
+    }, 
+    "src/app/scenes/gamedesk/3/game/SuccessLayer.lua": {
+      "md5": "0178ae7f38615ffd76bb1dac3d66c0b5"
+    }, 
+    "src/app/scenes/gamedesk/3/game/TotalItemLayer.lua": {
+      "md5": "c3b75a7a1ae04d4f3a5a17d09333a870"
+    }, 
+    "src/app/scenes/gamedesk/3/game/TotalLayer.lua": {
+      "md5": "436f5f97293ad9227cfd4d8284074d8b"
+    }, 
+    "src/app/scenes/gamedesk/3/logic/logic.lua": {
+      "md5": "b16f47e8cfff7a124bff3a51cc4f674e"
+    }, 
+    "src/app/scenes/gamedesk/3/msg/msg.lua": {
+      "md5": "ae52c997cd298d73935d8fe05d4fa0a9"
+    }, 
+    "src/app/scenes/gamedesk/3/msg/pb.lua": {
+      "md5": "d5ad270c5510bf83c31ce192d3e29e9a"
+    }, 
+    "src/app/scenes/gamedesk/GameConfigManager.lua": {
+      "md5": "85bf7465f09bfde1e37af847c9b7ad2e"
+    }, 
+    "src/app/scenes/gamedesk/GameDeskManager.lua": {
+      "md5": "2ec63c50dd0b6595ce5e14c90667b88e"
+    }, 
+    "src/app/scenes/lobby/Activity/ActivityLayer.lua": {
+      "md5": "10abd0424e41d70cc3fa62a61c06cd4a"
+    }, 
+    "src/app/scenes/lobby/CreateRoom/CreateRoomLayer.lua": {
+      "md5": "9fcf31161bddc99d2f17124e4fb829ea"
+    }, 
+    "src/app/scenes/lobby/FeedBack/FeedBackLayer.lua": {
+      "md5": "430e41fd3284dba3a73df657f23df483"
+    }, 
+    "src/app/scenes/lobby/GameHelp/GameHelpLayer.lua": {
+      "md5": "dfad3a24c435ba0fb6c82de3d312582f"
+    }, 
+    "src/app/scenes/lobby/GameSet/GameSetLayer.lua": {
+      "md5": "57a7dbc5ec6565f75b7e56fb7a1b4dd2"
+    }, 
+    "src/app/scenes/lobby/JoinRoom/JoinRoomLayer.lua": {
+      "md5": "2eb812abcc44b8e77213be3faccdc1e0"
+    }, 
+    "src/app/scenes/lobby/LobbyScene.lua": {
+      "md5": "3c43ac4b2f7a40b4e306c441e411af86"
+    }, 
+    "src/app/scenes/lobby/Lottery/LotteryLayer.lua": {
+      "md5": "ba5844abd1f1d2114ef412fb84800f18"
+    }, 
+    "src/app/scenes/lobby/Mai/MailLayer.lua": {
+      "md5": "727584d8e3d76ae5b0e4d29d1f68163b"
+    }, 
+    "src/app/scenes/lobby/MainLayer.lua": {
+      "md5": "3b32ed964b78096c86d152fb1f2ff26b"
+    }, 
+    "src/app/scenes/lobby/National_profit/ApplyBeProxyLayer.lua": {
+      "md5": "7a73e4730a35a6e1ba841a55b5aae747"
+    }, 
+    "src/app/scenes/lobby/National_profit/BeProxyLayer.lua": {
+      "md5": "7405489e7c720a6cb4f7971168d2111e"
+    }, 
+    "src/app/scenes/lobby/National_profit/MoneyGetLayer.lua": {
+      "md5": "c8a46ded6d6d0393cdc412194b96ecae"
+    }, 
+    "src/app/scenes/lobby/National_profit/NationProxyLayer.lua": {
+      "md5": "fd35c2c85a927c80127562b2a39cdc8d"
+    }, 
+    "src/app/scenes/lobby/Share/ShareLayer.lua": {
+      "md5": "5707c97c5586f5315cac42febb131dcc"
+    }, 
+    "src/app/scenes/lobby/common/DownLoadWebViewLayer.lua": {
+      "md5": "ce05e9ca8196c64c43e9a4152bedf67b"
+    }, 
+    "src/app/scenes/lobby/common/GameChatBubbleLayer.lua": {
+      "md5": "9f34497e5f99d3b511f3f6eb2556e394"
+    }, 
+    "src/app/scenes/lobby/common/GameChatLayer.lua": {
+      "md5": "343859f8d60d64761cdb868f7c419edf"
+    }, 
+    "src/app/scenes/lobby/common/GameLeaveLayer.lua": {
+      "md5": "810accf78fe88f6dd62a115595486f4b"
+    }, 
+    "src/app/scenes/lobby/common/GameVoteLayer.lua": {
+      "md5": "ecc26d62e0b0bfbc86ee01d13b65a203"
+    }, 
+    "src/app/scenes/lobby/common/GameVoteNoticeLayer.lua": {
+      "md5": "66ab87a652788370e06929a7438b65de"
+    }, 
+    "src/app/scenes/lobby/common/PayItemLayer.lua": {
+      "md5": "59bee701ccaf94704cde0aea1a0ef55f"
+    }, 
+    "src/app/scenes/lobby/common/PayLayer.lua": {
+      "md5": "de833ba14a2d486b99984b2423a0503f"
+    }, 
+    "src/app/scenes/lobby/common/PayWebViewLayer.lua": {
+      "md5": "95e51d8f753c26da9a060aa98ae8e6f7"
+    }, 
+    "src/app/scenes/lobby/zhanji/SearchLayer.lua": {
+      "md5": "c49db519ded1011764e21136b5c3626c"
+    }, 
+    "src/app/scenes/lobby/zhanji/ZhanJiCellLayer.lua": {
+      "md5": "b4a7a0b1ea1d16aae7eec4eaf8a1eecd"
+    }, 
+    "src/app/scenes/lobby/zhanji/ZhanJiConfig.lua": {
+      "md5": "4cd80f7f8fbd6823e4246b593b976451"
+    }, 
+    "src/app/scenes/lobby/zhanji/ZhanJiLayer.lua": {
+      "md5": "99ab32cc1a021b3069574c8d20f71a2b"
+    }, 
+    "src/app/scenes/lobby/zhanji/ZhanJiWatchCellLayer.lua": {
+      "md5": "842ab7aee3e5e5c5e06bb8b687604696"
+    }, 
+    "src/app/scenes/login/LoginLayer.lua": {
+      "md5": "09a744e81fd2f7d6a0807683cbd089de"
+    }, 
+    "src/app/scenes/login/LoginScene.lua": {
+      "md5": "a37d955f54046202a9d357c5fcce4c28"
+    }, 
+    "src/app/views/MainScene.lua": {
+      "md5": "7e78b9e09caec6a232705d7b0a86b5f9"
+    }, 
+    "src/componentex/ByteArray.lua": {
+      "md5": "7ab7c88ec2ed02dd36266a9bb2961db6"
+    }, 
+    "src/componentex/SocketTCP.lua": {
+      "md5": "d011e9c23a079a2032a8714e80bb1b65"
+    }, 
+    "src/componentex/json.lua": {
+      "md5": "b44518cea10c8fc883c10971722839c2"
+    }, 
+    "src/componentex/network.lua": {
+      "md5": "644141d4aa603a7c01e2dc4148f8807d"
+    }, 
+    "src/config.lua": {
+      "md5": "4d349d669a31a328dd171d8a63e42cd9"
+    }, 
+    "src/main.lua": {
+      "md5": "2e8b64073507252111dbcd091bdadd26"
+    }, 
+    "src/packages/mvc/AppBase.lua": {
+      "md5": "07062d3b017de24d663f6db8ca623538"
+    }, 
+    "src/packages/mvc/ViewBase.lua": {
+      "md5": "ef330eccbbc854ab0249c299a8aaa8ec"
+    }, 
+    "src/packages/mvc/init.lua": {
+      "md5": "e0c9b2db4f6d05564a0549afff62d364"
+    }, 
+    "src/rcc.lua": {
+      "md5": "6c5285f875b161aac982b287fba07a80"
+    }, 
+    "src/utils.lua": {
+      "md5": "fa5e9681bda69679ce856e654bd6f6ef"
+    }
+  }, 
+  "engineVersion": "3.10", 
+  "packageUrl": "http://hotfix.59iwan.cn/update/ios/assets/", 
+  "remoteManifestUrl": "http://hotfix.59iwan.cn/update/ios/assets/version/project.manifest", 
+  "remoteVersionUrl": "http://hotfix.59iwan.cn/update/ios/assets/version/version.manifest", 
+  "version": "1.0.0"
+}

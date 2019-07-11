@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'simulator' target in the 'simulator' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
+
+#define wAppID      @"wx17eaba1ec30075bd"
+#define wAppKey     @"66df51f440b3e7cd9c45f9f8c8b131b9"

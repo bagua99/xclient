@@ -1,0 +1,7 @@
+{
+  "packageUrl": "http://hotfix.59iwan.cn/update/ios/assets/", 
+  "remoteManifestUrl": "http://hotfix.59iwan.cn/update/ios/assets/version/project.manifest", 
+  "version": "1.0.0", 
+  "remoteVersionUrl": "http://hotfix.59iwan.cn/update/ios/assets/version/version.manifest", 
+  "engineVersion": "3.10"
+}

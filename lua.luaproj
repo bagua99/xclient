@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>E439935D-B2A2-46AE-856D-2AA408428F33</ProjectGuid>
+    <!--$guid1$-->
+    <ProjectHome>./src</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="app\" />
+    <Folder Include="app\base\" />
+    <Folder Include="app\common\" />
+    <Folder Include="app\component\" />
+    <Folder Include="app\config\" />
+    <Folder Include="app\data\" />
+    <Folder Include="app\music\" />
+    <Folder Include="app\net\" />
+    <Folder Include="app\scenes\" />
+    <Folder Include="app\scenes\gamedesk\" />
+    <Folder Include="app\scenes\gamedesk\1\" />
+    <Folder Include="app\scenes\gamedesk\1\card\" />
+    <Folder Include="app\scenes\gamedesk\1\game\" />
+    <Folder Include="app\scenes\gamedesk\1\logic\" />
+    <Folder Include="app\scenes\gamedesk\1\msg\" />
+    <Folder Include="app\scenes\gamedesk\2\" />
+    <Folder Include="app\scenes\gamedesk\2\card\" />
+    <Folder Include="app\scenes\gamedesk\2\game\" />
+    <Folder Include="app\scenes\gamedesk\2\msg\" />
+    <Folder Include="app\scenes\gamedesk\3\" />
+    <Folder Include="app\scenes\gamedesk\3\card\" />
+    <Folder Include="app\scenes\gamedesk\3\game\" />
+    <Folder Include="app\scenes\gamedesk\3\logic\" />
+    <Folder Include="app\scenes\gamedesk\3\msg\" />
+    <Folder Include="app\scenes\gamedesk\4\" />
+    <Folder Include="app\scenes\gamedesk\4\card\" />
+    <Folder Include="app\scenes\gamedesk\4\game\" />
+    <Folder Include="app\scenes\gamedesk\4\msg\" />
+    <Folder Include="app\scenes\lobby\" />
+    <Folder Include="app\scenes\lobby\Activity\" />
+    <Folder Include="app\scenes\lobby\common\" />
+    <Folder Include="app\scenes\lobby\CreateRoom\" />
+    <Folder Include="app\scenes\lobby\FeedBack\" />
+    <Folder Include="app\scenes\lobby\GameHelp\" />
+    <Folder Include="app\scenes\lobby\GameSet\" />
+    <Folder Include="app\scenes\lobby\JoinRoom\" />
+    <Folder Include="app\scenes\lobby\Lottery\" />
+    <Folder Include="app\scenes\lobby\Mai\" />
+    <Folder Include="app\scenes\lobby\National_profit\" />
+    <Folder Include="app\scenes\lobby\Share\" />
+    <Folder Include="app\scenes\lobby\zhanji\" />
+    <Folder Include="app\scenes\login\" />
+    <Folder Include="app\views\" />
+    <Folder Include="cocos\" />
+    <Folder Include="cocos\3d\" />
+    <Folder Include="cocos\cocos2d\" />
+    <Folder Include="cocos\cocosbuilder\" />
+    <Folder Include="cocos\cocosdenshion\" />
+    <Folder Include="cocos\cocostudio\" />
+    <Folder Include="cocos\controller\" />
+    <Folder Include="cocos\extension\" />
+    <Folder Include="cocos\framework\" />
+    <Folder Include="cocos\framework\components\" />
+    <Folder Include="cocos\framework\extends\" />
+    <Folder Include="cocos\network\" />
+    <Folder Include="cocos\physics3d\" />
+    <Folder Include="cocos\spine\" />
+    <Folder Include="cocos\ui\" />
+    <Folder Include="componentex\" />
+    <Folder Include="packages\" />
+    <Folder Include="packages\mvc\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="app\base\BaseLayer.lua" />
+    <Compile Include="app\base\BaseScene.lua" />
+    <Compile Include="app\common\CommonFunc.lua" />
+    <Compile Include="app\common\MsgLockLayer.lua" />
+    <Compile Include="app\common\UIEvent.lua" />
+    <Compile Include="app\common\WarnLayer.lua" />
+    <Compile Include="app\component\GeneralTips.lua" />
+    <Compile Include="app\component\Loading.lua" />
+    <Compile Include="app\component\LocationMapLayer.lua" />
+    <Compile Include="app\component\ScoreTips.lua" />
+    <Compile Include="app\component\ShowMapLayer.lua" />
+    <Compile Include="app\component\SmallTips.lua" />
+    <Compile Include="app\component\UserInfoTips.lua" />
+    <Compile Include="app\component\ZhuangTips.lua" />
+    <Compile Include="app\config\DgnnConfig.lua" />
+    <Compile Include="app\config\GameConfig.lua" />
+    <Compile Include="app\config\HelpConfig.lua" />
+    <Compile Include="app\config\NnConfig.lua" />
+    <Compile Include="app\config\NxphzConfig.lua" />
+    <Compile Include="app\config\PdkConfig.lua" />
+    <Compile Include="app\config\Product.lua" />
+    <Compile Include="app\config\RoomConfig.lua" />
+    <Compile Include="app\config\EventConfig.lua" />
+    <Compile Include="app\config\SPConfig.lua" />
+    <Compile Include="app\data\DataManager.lua" />
+    <Compile Include="app\music\AudioManager.lua" />
+    <Compile Include="app\MyApp.lua" />
+    <Compile Include="app\net\BaseTcp.lua" />
+    <Compile Include="app\net\msg_define.lua" />
+    <Compile Include="app\net\NetManager.lua" />
+    <Compile Include="app\net\parser.lua" />
+    <Compile Include="app\net\pbc.lua" />
+    <Compile Include="app\net\protobuf.lua" />
+    <Compile Include="app\net\protocol_msg.lua" />
+    <Compile Include="app\net\protocol_pb.lua" />
+    <Compile Include="app\net\TcpGame.lua" />
+    <Compile Include="app\net\TcpLobby.lua" />
+    <Compile Include="app\scenes\gamedesk\1\card\GameCard.lua" />
+    <Compile Include="app\scenes\gamedesk\1\card\GameCardManager.lua" />
+    <Compile Include="app\scenes\gamedesk\1\GameDefine.lua" />
+    <Compile Include="app\scenes\gamedesk\1\GamePlayer.lua" />
+    <Compile Include="app\scenes\gamedesk\1\game\GameDeskLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\1\game\GameDeskScene.lua" />
+    <Compile Include="app\scenes\gamedesk\1\game\GameEndLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\1\game\GameTotalEndLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\1\logic\logic.lua" />
+    <Compile Include="app\scenes\gamedesk\1\msg\msg.lua" />
+    <Compile Include="app\scenes\gamedesk\1\msg\pb.lua" />
+    <Compile Include="app\scenes\gamedesk\2\card\GameCard.lua" />
+    <Compile Include="app\scenes\gamedesk\2\card\GameCardManager.lua" />
+    <Compile Include="app\scenes\gamedesk\2\GameDefine.lua" />
+    <Compile Include="app\scenes\gamedesk\2\GamePlayer.lua" />
+    <Compile Include="app\scenes\gamedesk\2\game\GameDeskLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\2\game\GameDeskScene.lua" />
+    <Compile Include="app\scenes\gamedesk\2\game\GameEndLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\2\game\GameTotalEndLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\2\msg\msg.lua" />
+    <Compile Include="app\scenes\gamedesk\2\msg\pb.lua" />
+    <Compile Include="app\scenes\gamedesk\3\card\GameCard.lua" />
+    <Compile Include="app\scenes\gamedesk\3\card\GameCardManager.lua" />
+    <Compile Include="app\scenes\gamedesk\3\GameDefine.lua" />
+    <Compile Include="app\scenes\gamedesk\3\GamePlayer.lua" />
+    <Compile Include="app\scenes\gamedesk\3\game\FailedLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\3\game\GameDeskLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\3\game\GameDeskScene.lua" />
+    <Compile Include="app\scenes\gamedesk\3\game\ResultItemLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\3\game\SuccessLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\3\game\TotalItemLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\3\game\TotalLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\3\logic\logic.lua" />
+    <Compile Include="app\scenes\gamedesk\3\msg\msg.lua" />
+    <Compile Include="app\scenes\gamedesk\3\msg\pb.lua" />
+    <Compile Include="app\scenes\gamedesk\4\card\GameCard.lua" />
+    <Compile Include="app\scenes\gamedesk\4\card\GameChiCardManager.lua" />
+    <Compile Include="app\scenes\gamedesk\4\card\GameEndCardManager.lua" />
+    <Compile Include="app\scenes\gamedesk\4\card\GameHandCardManager.lua" />
+    <Compile Include="app\scenes\gamedesk\4\card\GameOutCardManager.lua" />
+    <Compile Include="app\scenes\gamedesk\4\card\GameWeaveCardManager.lua" />
+    <Compile Include="app\scenes\gamedesk\4\GameDefine.lua" />
+    <Compile Include="app\scenes\gamedesk\4\GamePlayer.lua" />
+    <Compile Include="app\scenes\gamedesk\4\game\GameDeskLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\4\game\GameDeskScene.lua" />
+    <Compile Include="app\scenes\gamedesk\4\game\GameEndLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\4\game\GameTotalItemLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\4\game\GameTotalEndLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\4\game\GameTotalScoreItemLayer.lua" />
+    <Compile Include="app\scenes\gamedesk\4\msg\msg.lua" />
+    <Compile Include="app\scenes\gamedesk\4\msg\pb.lua" />
+    <Compile Include="app\scenes\gamedesk\GameConfigManager.lua" />
+    <Compile Include="app\scenes\gamedesk\GameDeskManager.lua" />
+    <Compile Include="app\scenes\GameSceneManager.lua" />
+    <Compile Include="app\scenes\lobby\Activity\ActivityLayer.lua" />
+    <Compile Include="app\scenes\lobby\common\DownLoadWebViewLayer.lua" />
+    <Compile Include="app\scenes\lobby\common\GameChatBubbleLayer.lua" />
+    <Compile Include="app\scenes\lobby\common\GameChatLayer.lua" />
+    <Compile Include="app\scenes\lobby\common\GameVoteNoticeLayer.lua" />
+    <Compile Include="app\scenes\lobby\common\GameVoteLayer.lua" />
+    <Compile Include="app\scenes\lobby\common\GameLeaveLayer.lua" />
+    <Compile Include="app\scenes\lobby\common\ItemLayer.lua" />
+    <Compile Include="app\scenes\lobby\common\SPLayer.lua" />
+    <Compile Include="app\scenes\lobby\common\WebViewLayer.lua" />
+    <Compile Include="app\scenes\lobby\CreateRoom\CreateRoomLayer.lua" />
+    <Compile Include="app\scenes\lobby\FeedBack\FeedBackLayer.lua" />
+    <Compile Include="app\scenes\lobby\GameHelp\GameHelpLayer.lua" />
+    <Compile Include="app\scenes\lobby\GameSet\GameSetLayer.lua" />
+    <Compile Include="app\scenes\lobby\JoinRoom\JoinRoomLayer.lua" />
+    <Compile Include="app\scenes\lobby\LobbyScene.lua" />
+    <Compile Include="app\scenes\lobby\Lottery\LotteryLayer.lua" />
+    <Compile Include="app\scenes\lobby\MainLayer.lua" />
+    <Compile Include="app\scenes\lobby\Mai\MailLayer.lua" />
+    <Compile Include="app\scenes\lobby\National_profit\ApplyBeProxyLayer.lua" />
+    <Compile Include="app\scenes\lobby\National_profit\BeProxyLayer.lua" />
+    <Compile Include="app\scenes\lobby\National_profit\ProfitInfoLayer.lua" />
+    <Compile Include="app\scenes\lobby\National_profit\NationProxyLayer.lua" />
+    <Compile Include="app\scenes\lobby\National_profit\SendCardLayey.lua" />
+    <Compile Include="app\scenes\lobby\Share\ShareLayer.lua" />
+    <Compile Include="app\scenes\lobby\zhanji\SearchLayer.lua" />
+    <Compile Include="app\scenes\lobby\zhanji\ZhanJiCellLayer.lua" />
+    <Compile Include="app\scenes\lobby\zhanji\ZhanJiConfig.lua" />
+    <Compile Include="app\scenes\lobby\zhanji\ZhanJiLayer.lua" />
+    <Compile Include="app\scenes\lobby\zhanji\ZhanJiWatchCellLayer.lua" />
+    <Compile Include="app\scenes\login\LoginLayer.lua" />
+    <Compile Include="app\scenes\login\LoginScene.lua" />
+    <Compile Include="app\views\MainScene.lua" />
+    <Compile Include="cocos\3d\3dConstants.lua" />
+    <Compile Include="cocos\cocos2d\bitExtend.lua" />
+    <Compile Include="cocos\cocos2d\Cocos2d.lua" />
+    <Compile Include="cocos\cocos2d\Cocos2dConstants.lua" />
+    <Compile Include="cocos\cocos2d\deprecated.lua" />
+    <Compile Include="cocos\cocos2d\DeprecatedCocos2dClass.lua" />
+    <Compile Include="cocos\cocos2d\DeprecatedCocos2dEnum.lua" />
+    <Compile Include="cocos\cocos2d\DeprecatedCocos2dFunc.lua" />
+    <Compile Include="cocos\cocos2d\DeprecatedOpenglEnum.lua" />
+    <Compile Include="cocos\cocos2d\DrawPrimitives.lua" />
+    <Compile Include="cocos\cocos2d\functions.lua" />
+    <Compile Include="cocos\cocos2d\json.lua" />
+    <Compile Include="cocos\cocos2d\luaj.lua" />
+    <Compile Include="cocos\cocos2d\luaoc.lua" />
+    <Compile Include="cocos\cocos2d\Opengl.lua" />
+    <Compile Include="cocos\cocos2d\OpenglConstants.lua" />
+    <Compile Include="cocos\cocosbuilder\CCBReaderLoad.lua" />
+    <Compile Include="cocos\cocosbuilder\DeprecatedCocosBuilderClass.lua" />
+    <Compile Include="cocos\cocosdenshion\AudioEngine.lua" />
+    <Compile Include="cocos\cocosdenshion\DeprecatedCocosDenshionClass.lua" />
+    <Compile Include="cocos\cocosdenshion\DeprecatedCocosDenshionFunc.lua" />
+    <Compile Include="cocos\cocostudio\CocoStudio.lua" />
+    <Compile Include="cocos\cocostudio\DeprecatedCocoStudioClass.lua" />
+    <Compile Include="cocos\cocostudio\DeprecatedCocoStudioFunc.lua" />
+    <Compile Include="cocos\cocostudio\StudioConstants.lua" />
+    <Compile Include="cocos\controller\ControllerConstants.lua" />
+    <Compile Include="cocos\extension\DeprecatedExtensionClass.lua" />
+    <Compile Include="cocos\extension\DeprecatedExtensionEnum.lua" />
+    <Compile Include="cocos\extension\DeprecatedExtensionFunc.lua" />
+    <Compile Include="cocos\extension\ExtensionConstants.lua" />
+    <Compile Include="cocos\framework\audio.lua" />
+    <Compile Include="cocos\framework\components\event.lua" />
+    <Compile Include="cocos\framework\device.lua" />
+    <Compile Include="cocos\framework\display.lua" />
+    <Compile Include="cocos\framework\extends\LayerEx.lua" />
+    <Compile Include="cocos\framework\extends\MenuEx.lua" />
+    <Compile Include="cocos\framework\extends\NodeEx.lua" />
+    <Compile Include="cocos\framework\extends\SpriteEx.lua" />
+    <Compile Include="cocos\framework\extends\UICheckBox.lua" />
+    <Compile Include="cocos\framework\extends\UIEditBox.lua" />
+    <Compile Include="cocos\framework\extends\UIListView.lua" />
+    <Compile Include="cocos\framework\extends\UIPageView.lua" />
+    <Compile Include="cocos\framework\extends\UIScrollView.lua" />
+    <Compile Include="cocos\framework\extends\UISlider.lua" />
+    <Compile Include="cocos\framework\extends\UITextField.lua" />
+    <Compile Include="cocos\framework\extends\UIWidget.lua" />
+    <Compile Include="cocos\framework\init.lua" />
+    <Compile Include="cocos\framework\package_support.lua" />
+    <Compile Include="cocos\framework\transition.lua" />
+    <Compile Include="cocos\init.lua" />
+    <Compile Include="cocos\network\DeprecatedNetworkClass.lua" />
+    <Compile Include="cocos\network\DeprecatedNetworkEnum.lua" />
+    <Compile Include="cocos\network\DeprecatedNetworkFunc.lua" />
+    <Compile Include="cocos\network\NetworkConstants.lua" />
+    <Compile Include="cocos\physics3d\physics3d-constants.lua" />
+    <Compile Include="cocos\spine\SpineConstants.lua" />
+    <Compile Include="cocos\ui\DeprecatedUIEnum.lua" />
+    <Compile Include="cocos\ui\DeprecatedUIFunc.lua" />
+    <Compile Include="cocos\ui\experimentalUIConstants.lua" />
+    <Compile Include="cocos\ui\GuiConstants.lua" />
+    <Compile Include="componentex\ByteArray.lua" />
+    <Compile Include="componentex\json.lua" />
+    <Compile Include="componentex\network.lua" />
+    <Compile Include="componentex\SocketTCP.lua" />
+    <Compile Include="config.lua" />
+    <Compile Include="GameManager.lua" />
+    <Compile Include="main.lua" />
+    <Compile Include="packages\mvc\AppBase.lua" />
+    <Compile Include="packages\mvc\init.lua" />
+    <Compile Include="packages\mvc\ViewBase.lua" />
+    <Compile Include="rcc.lua" />
+    <Compile Include="UpdateScene.lua" />
+    <Compile Include="utils.lua" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>
