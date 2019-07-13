@@ -1,0 +1,1 @@
+start xclient.exe %~dp0

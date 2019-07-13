@@ -1,8 +1,6 @@
 *.obj
 *.sdf
 *.pdb
-*.exe
-*.dll
 *.o
 *.tlog
 *.*.tlog
@@ -12,7 +10,6 @@
 frameworks/runtime-src/proj.win32/Debug.win32/
 frameworks/runtime-src/proj.android/bin/
 frameworks/runtime-src/proj.android/obj/
-simulator/
 
 *.svn-base
 .svn/
