@@ -39,13 +39,15 @@ function M:sendProtoMsg(name, msg)
     end
 
 	local buf = G_Pbc:encode(name, msg)
-	local len = 2 + #buf + 2 + 8
+	--local len = 2 + #buf + 2 + 8
+	-- 去除包序号判断
+	local len = 2 + #buf + 8
 	dump("发送包"..len)
 	
 	local data_len = Utils.int16_2_bytes(len)
 	local data = Utils.int16_2_bytes(proto_id)
 	data = data .. buf
-	data = data .. Utils.int16_2_bytes(self.index)
+	--data = data .. Utils.int16_2_bytes(self.index)
 	local crcData = crc32.hash(data) 	
 	 
 	data = data .. crcData
