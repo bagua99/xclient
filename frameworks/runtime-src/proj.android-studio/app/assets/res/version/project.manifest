@@ -1,7 +1,0 @@
-{
-    "packageUrl" : "http://121.46.2.131/update/assets/",
-    "remoteManifestUrl" : "http://121.46.2.131/update/version/project.manifest",
-    "remoteVersionUrl" : "http://121.46.2.131/update/version/version.manifest",
-	"version" : "1.0.0",
-    "engineVersion": "3.10"
-}
